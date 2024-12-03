@@ -10,7 +10,10 @@
 This project is a detailed implementation of a Railway Control System, developed as part of our academic coursework. It aims to enhance the efficiency, safety, and reliability of railway operations through technology-driven solutions.
 
 ## Features
-- [List key features of your system here, such as scheduling, safety mechanisms, train tracking, etc.]
+- Train Arrival Request
+- Track Allocation
+- Dynamic Signal Mana-gement (Signal updates must be based on the real-time state of tracks, zones, and train positions)
+- Signal States
 
 ## Objectives
 - [Describe the main goals or purpose of the system.]
