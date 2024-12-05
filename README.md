@@ -19,14 +19,8 @@ This project is a detailed implementation of a Railway Control System, developed
 - [Describe the main goals or purpose of the system.]
 
 ## Technology Stack
-- [Specify the programming languages, frameworks, and tools used in this project.]
+- Promela
 
 ## Installation and Setup
-1. [Provide steps for installing and running the project.]
-2. [Include any dependencies required.]
-
-## Usage
-- [Describe how to use the system and its functionalities.]
-
-## License
-- [Mention the licensing terms if applicable.]
+1. Spin tools
+2. Spin and Promela

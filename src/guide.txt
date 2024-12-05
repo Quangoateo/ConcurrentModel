@@ -1,0 +1,1 @@
+Get-Content constants.pml, train.pml, allocator.pml, signals.pml, main.pml | Set-Content combined.pml
